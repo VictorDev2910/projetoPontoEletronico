@@ -1,0 +1,19 @@
+#login {
+    color: darkolivegreen;
+    margin-top: 140px;
+    font-weight: 800;
+}
+#usuario {
+    background-color: transparent;
+    border: 10px;
+     
+}
+#senha {
+    background-color: transparent;
+    border: 1;
+    
+}
+.login input{
+    border-radius: 5px !important;
+    border-color: blueviolet;
+}
